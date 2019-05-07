@@ -10,3 +10,4 @@ insert into testAzureDevops(id,item,comment) VALUES (1,'beef and cheddar', 'beef
 insert into testAzureDevops(id,item,comment) VALUES (2,'rueben', 'another beef sandwich at Arbys');
 insert into testAzureDevops(id,item,comment) VALUES (3,'hot wings', 'wings at BDubs');
 insert into testAzureDevops(id,item,comment) VALUES (4,'mild wings', 'another set of wings at BDubs');
+insert into testAzureDevops(id,item,comment) VALUES (5,'another wings', 'another different set of wings at BDubs')
